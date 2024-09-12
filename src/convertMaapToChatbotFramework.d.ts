@@ -1,0 +1,12 @@
+import { BaseEmbeddings } from './interfaces/base-embeddings.js';
+import { BaseLoader } from './interfaces/base-loader.js';
+import { BaseModel } from './interfaces/base-model.js';
+import { ChatLlm } from 'mongodb-chatbot-server';
+import { Embedder } from 'mongodb-chatbot-server';
+import { DataSource } from 'mongodb-rag-ingest/sources';
+import { BaseReranker } from './interfaces/base-reranker.js';
+import { Rerank } from './Rerank.js';
+export declare function convertBaseModelToChatLlm(baseModel: BaseModel): Promise<ChatLlm>;
+export declare function convertBaseEmbeddingsToEmbedder(baseEmbeddings: BaseEmbeddings): Embedder;
+export declare function convertBaseLoaderToDataSource(baseLoader: BaseLoader): DataSource;
+export declare function convertBaseRerankerToReranker(baseReranker: BaseReranker): Rerank;
