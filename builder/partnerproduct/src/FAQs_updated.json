@@ -1,8 +1,5 @@
 [
-    {
-        "question": "Was sind die rechtlichen Grundlagen meines Studiums?",
-        "answer": "Alle generellen Fragen rund um das Studium an der Universit\u00e4t Basel werden in den folgenden Ordnungen geregelt: Studierendenordnung (gilt f\u00fcr alle Studierenden der Uni Basel): https://www.unibas.ch/de/Studium/Studierendenordnung.html Bachelorstudium: Ordnung der Philosophisch Naturwissenschaftlichen Fakult\u00e4t der Universit\u00e4t Basel f\u00fcr das Bachelorstudium-\u00a0\u00a0 \u00a0 Masterstudium: Ordnung der Philosophisch-Naturwissenschaftlichen Fakult\u00e4t der Universit\u00e4t Basel f\u00fcr das MasterstudiumDiese Ordnungen gelten f\u00fcr alle Studierenden, \u00a0die entweder an der Phil.-Nat. Fakult\u00e4t immatrikuliert sind, oder eine Lehrveranstaltung besuchen, die von der Phil.-Nat. Fakult\u00e4t angeboten wird): https://philnat.unibas.ch/de/studium/"
-    },
+    
     {
         "question": "Was ist eine Datenabschrift?",
         "answer": "Eine Datenabschrift ist die offizielle Bescheinigung Ihrer an der Universit\u00e4t Basel absolvierten Studienleistungen mit dem Ausweis der erworbenen Kreditpunkte. Sie wird jeweils 2x im Jahr verschickt. Bitte beachten Sie, dass nur Leistungen aufgef\u00fchrt sind, die im angegebenen Zeitraum bewertet wurden (siehe auch Begleitbrief). Die Datenabschriften sind sorgf\u00e4ltig aufzubewahren, da sie als Nachweise der an der Universit\u00e4t Basel erbrachten Leistungen dienen, aber auch f\u00fcr Bewerbungen an anderen Universit\u00e4ten erforderlich sind. Falls Sie eine neue Datenabschrift ben\u00f6tigen, einen Gesamtauszug bestellen m\u00f6chten oder sonstige Fragen bez\u00fcglich der Datenabschrift haben, wenden Sie sich bitte an das Studiensekretariat der Universit\u00e4t Basel (Petersplatz 1, Basel). Weitere Informationen finden Sie auch hier: https://www.unibas.ch/de/Studium/Im-Studium/Datenabschrift.html."
@@ -134,5 +131,69 @@
     {
         "question": "Kann ich mich nach dem Doktoratsexamen exmatrikulieren?",
         "answer": "Die Exmatrikulation soll nach bestandenem Doktoratsexamen erfolgen."
-    }
+    },
+    {
+        "questions_responses": [
+          {
+            "question": "What are the PhD application requirements at the University of Basel for natural sciences?",
+            "response": "To apply for a PhD in natural sciences at the University of Basel, you'll typically need a relevant Master's degree, a strong academic record, and support from a supervising professor. Specific requirements may vary by department. For more details, please refer to the university's official PhD admissions guidelines or contact the Faculty of Science directly."
+          },
+          {
+            "question": "Can I work part-time while doing my PhD at the University of Basel?",
+            "response": "Yes, many PhD students at the University of Basel work part-time, particularly in roles like teaching assistants or research assistants. However, it is essential to manage your time effectively, as the PhD program is demanding. You can inquire with your supervisor or the department for more details about available part-time positions."
+          },
+          {
+            "question": "What are the funding options for natural science PhD students at Basel?",
+            "response": "PhD students in natural sciences at the University of Basel can apply for funding through various scholarships, research grants, or employment as research or teaching assistants. The Swiss National Science Foundation (SNSF) is also a significant funding source. It is advisable to consult your supervisor or the university’s financial aid office for specific opportunities."
+          },
+          {
+            "question": "Does the university offer housing options for international doctoral students?",
+            "response": "Yes, the University of Basel offers some housing options for international students, including doctoral candidates. However, availability can be limited, and it is recommended to apply early. The university’s housing office can help you with finding accommodation, or you can explore private options in the city of Basel."
+          },
+          {
+            "question": "What kind of lab facilities are available for PhD students in molecular biology at Basel?",
+            "response": "The University of Basel offers state-of-the-art lab facilities for molecular biology PhD students, including access to cutting-edge equipment, research spaces, and collaboration with renowned scientists. Facilities vary by department and research group, so it is best to discuss specific requirements with your supervisor."
+          },
+          {
+            "question": "Are there career support services for PhD students at the University of Basel?",
+            "response": "Yes, the University of Basel offers career support services for PhD students, including workshops, networking events, and individual career counseling. The Career Service Center at the university provides guidance on job applications, career planning, and connecting with industry professionals."
+          },
+          {
+            "question": "What interdisciplinary programs are available for PhD students in natural sciences?",
+            "response": "The University of Basel promotes interdisciplinary research and offers several interdisciplinary programs for PhD students, especially in fields like life sciences, nanosciences, and computational biology. These programs often involve collaboration between different faculties and research groups."
+          },
+          {
+            "question": "How can I collaborate with other universities during my PhD?",
+            "response": "The University of Basel has numerous collaborations with other institutions worldwide, particularly in the life sciences. PhD students are encouraged to engage in international research exchanges or joint projects. You can discuss specific collaboration opportunities with your supervisor or department."
+          },
+          {
+            "question": "What are the key deadlines for submitting my thesis at the University of Basel?",
+            "response": "The deadlines for submitting your PhD thesis depend on the department and faculty. It is advisable to consult your department's guidelines or contact the PhD coordinator for precise deadlines. Make sure to plan ahead as the submission process can involve several administrative steps."
+          },
+          {
+            "question": "Is there any mentorship program for new PhD students at the University of Basel?",
+            "response": "Yes, many departments at the University of Basel offer mentorship programs for new PhD students. These programs pair new students with experienced researchers or faculty members to provide academic guidance and career advice. Check with your department to learn about specific mentorship opportunities."
+          },
+          {
+            "question": "What opportunities are there for attending international conferences as a PhD student?",
+            "response": "PhD students at the University of Basel are encouraged to attend international conferences. Many departments offer financial support or travel grants for students presenting their research. Discuss conference opportunities with your supervisor and explore funding options through the university or external sources."
+          },
+          {
+            "question": "How does the PhD defense process work at the University of Basel?",
+            "response": "The PhD defense at the University of Basel typically involves an oral examination in front of a committee of experts, where you present and defend your thesis. The specifics of the defense process vary by faculty and department, so it’s essential to consult your PhD regulations or ask your supervisor for details."
+          },
+          {
+            "question": "What are the health insurance requirements for PhD students in Switzerland?",
+            "response": "All students, including PhD students, in Switzerland are required to have health insurance. If you are an international student, you may need to purchase Swiss health insurance unless you qualify for an exemption. The University of Basel provides guidance on selecting health insurance, and some options are tailored for students."
+          },
+          {
+            "question": "Can I change my supervisor during my PhD at Basel?",
+            "response": "Changing supervisors during your PhD is possible but should be done carefully and with good reason. It is recommended to first discuss any concerns with your current supervisor or a faculty advisor. If needed, your department can assist with finding a new supervisor."
+          },
+          {
+            "question": "Does the University of Basel provide language courses for PhD students?",
+            "response": "Yes, the University of Basel offers language courses, including German, which can be beneficial for international PhD students. These courses are available through the Language Center, and some are specifically tailored to academic needs."
+          }
+        ]
+      }
 ]
