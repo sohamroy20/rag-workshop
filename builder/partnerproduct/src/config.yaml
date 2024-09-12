@@ -1,12 +1,28 @@
 ingest:
-  - source: 'json-collection'
-    source_path: '/Users/datomo/git/rag-workshop/maap-chatbot-builder/unibas.json'
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Leben-in-Basel.html'
     chunk_size: 2000
     chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.bs.ch/Portrait/leben-in-basel/Gesundheit-und-Versicherung.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Studium/Bewerbung-Zulassung/Anmeldung/Bachelorstudium-mit-schweizerischem-Vorbildungsausweis/Verspaetete-Anmeldung-zum-Bachelorstudium-mit-schweizerischem-Vorbildungsausweis.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/en/Studies/Student-Life/Food-Service.html'
+    chunk_size: 2000
+    chunk_overlap: 200   
+  - source: 'json'
+    source_path: 'src/FAQs_updated.json'
+    chunk_size: 2000
+    chunk_overlap: 200    
 embedding:
     class_name: AdaEmbeddings
 vector_store:
-    connectionString: ''
+    connectionString: 'mongodb+srv://soham:Password@ragunibas.6zyci.mongodb.net/'
     dbName: 'chatter'
     collectionName: 'embedded_content'
     embeddingKey: 'embedding'
@@ -15,8 +31,8 @@ vector_store:
     minScore: 0.1 
     vectorSearchIndexName: 'vector_index'
 llms:
-    class_name: Fireworks
-    model_name: 'accounts/fireworks/models/mixtral-8x22b-instruct'
+    class_name: OpenAI
+    model_name: 'gpt-4-turbo'
     temperature: ''
     top_p: ''
     top_k: ''
