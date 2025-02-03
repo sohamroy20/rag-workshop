@@ -1,0 +1,6914 @@
+[
+    {
+        "jobTitle": "Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Software Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Data Scientist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist AI Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Machine Learning Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Backend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Frontend Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Full Stack Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist DevOps Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Cloud Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Security Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Database Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Blockchain Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Embedded Systems Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Game Developer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Robotics Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist IoT Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Cybersecurity Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist System Administrator",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Mathematician",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Algorithm Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Computer Vision Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist NLP Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Quantitative Analyst",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist AI Ethics Researcher",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist AI Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Product Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist UI/UX Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Graphic Designer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist IT Support Specialist",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Big Data Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Intern Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Junior Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Senior Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Lead Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Manager Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Director Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Consultant Network Engineer",
+        "location": "USA"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "Remote"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "Hybrid"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "On-site"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "Worldwide"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "Europe"
+    },
+    {
+        "jobTitle": "Specialist Network Engineer",
+        "location": "USA"
+    }
+]

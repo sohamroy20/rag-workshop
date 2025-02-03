@@ -1,6 +1,8 @@
 // // builder/partnerproduct/src/chatbot.ts
-// import { AdaEmbeddings } from '../embeddings';
-// import { OpenAI } from './llms.ts';
+// console.log("✅ chatbot.ts is loaded and running!");
+
+// import { AdaEmbeddings } from "./embeddings.js";
+// import { OpenAI } from "./llms.js";
 // import { MongoClient } from 'mongodb';
 
 // export class Chatbot {
@@ -24,5 +26,4 @@
 //     const db = this.dbClient.db('chatter');
 //     const collection = db.collection('embedded_content');
 //     // Implementation here
-//   }
-// }
+//   }}

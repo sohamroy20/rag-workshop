@@ -1,6 +1,10 @@
 ingest:
   - source: 'web'
-    source_path: 'https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Leben-in-Basel.html'
+    source_path: 'https://www.bs.ch/Portrait/leben-in-basel.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.bs.ch/Portrait/leben-in-basel/wohnen-in-basel.html'
     chunk_size: 2000
     chunk_overlap: 200
   - source: 'web'
@@ -8,19 +12,123 @@ ingest:
     chunk_size: 2000
     chunk_overlap: 200
   - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Leben-in-Basel.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Forschung/Nationale-und-Internationale-Zusammenarbeit/Welcome-Center.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Admission related
+  - source: 'web'
     source_path: 'https://www.unibas.ch/de/Studium/Bewerbung-Zulassung/Anmeldung/Bachelorstudium-mit-schweizerischem-Vorbildungsausweis/Verspaetete-Anmeldung-zum-Bachelorstudium-mit-schweizerischem-Vorbildungsausweis.html'
     chunk_size: 2000
     chunk_overlap: 200
   - source: 'web'
-    source_path: 'https://www.unibas.ch/en/Studies/Student-Life/Food-Service.html'
+    source_path: 'https://www.unibas.ch/de/Studium/Bewerbung-Zulassung/Anmeldung/Bachelorstudium-mit-auslaendischem-Vorbildungsausweis/Verspaetete-Anmeldung-zum-Bachelorstudium-mit-auslaendischem-Vorbildungsausweis.html'
     chunk_size: 2000
-    chunk_overlap: 200   
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Studium/Bewerbung-Zulassung/Anmeldung/Masterstudium-ausser-Medizin-und-Pflegewissenschaft/Verspaetete-Anmeldung-zum-Masterstudium-mit-schweizerischem-Hochschulabschluss.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Entry Exam Medicine
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Studium/Bewerbung-Zulassung/Zulassung/Medizin.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.swissuniversities.ch/service/anmeldung-zum-medizinstudium/eignungstest'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Study-related
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Studium/Im-Studium/Rueckmelden.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://www.unibas.ch/de/Studium/Mobilitaet/Mobilitaet-Schweiz/Belegen-Studierende-anderer-Schweizer-Universitaeten.html'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Faculty of Science & Study Information
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/studium/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/faqs/'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Exams
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/examen/'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # IT Tools
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/studium/'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # PhD Regulations
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/forschung/promotionphd/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://philnat.unibas.ch/de/forschung/promotionphd/doktoratsprogramme/'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Department Mathematics and Computer Science
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/studium/computer-science-informatik/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/vorkurs-mathematik/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/studium/computer-science-informatik/lehrangebot-hs24/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/studium/mathematik/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/studium/actuarial-science/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://dmi.unibas.ch/de/studium/data-science/'
+    chunk_size: 2000
+    chunk_overlap: 200
+  - source: 'web'
+    source_path: 'https://computational.philnat.unibas.ch/de/'
+    chunk_size: 2000
+    chunk_overlap: 200
+
+  # Existing JSON sources
   - source: 'json'
     source_path: 'src/FAQs_updated.json'
     chunk_size: 2000
-    chunk_overlap: 200    
+    chunk_overlap: 200
+  - source: 'json'
+    source_path: 'src/job_postings.json'
+    chunk_size: 2000
+    chunk_overlap: 200
+
 embedding:
     class_name: AdaEmbeddings
+
 vector_store:
     connectionString: 'mongodb+srv://soham:Password@ragunibas.6zyci.mongodb.net/'
     dbName: 'chatter'
@@ -30,6 +138,7 @@ vector_store:
     numCandidates: 150
     minScore: 0.1 
     vectorSearchIndexName: 'vector_index'
+
 llms:
     class_name: OpenAI
     model_name: 'gpt-4-turbo'
